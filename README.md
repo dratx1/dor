@@ -16,11 +16,11 @@ pkg install python
 ```
 4. Clone this repo
 ```
-git clone https://github.com/ros3xbot/dor2
+git clone https://github.com/dratx1/dor
 ```
 5. Open the folder
 ```
-cd dor2
+cd dor
 ```
 6. Install dependencies
 ```
